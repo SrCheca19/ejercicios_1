@@ -1,0 +1,46 @@
+body {
+    font-family: "Times New Roman", serif;
+    margin: 20px;
+}
+
+caption {
+    font-style: italic;
+    padding-bottom: 2px;
+}
+
+/* ---------- Tabla 1 ---------- */
+.tabla1 {
+    border: 3px solid #1a1ad6;
+    border-spacing: 6px;
+    padding: 12px;
+    margin-bottom: 30px;
+}
+
+.tabla1 th {
+    border: none;
+    padding: 6px 4px;
+}
+
+.tabla1 td {
+    border: 2px solid #1a1ad6;
+    padding: 15px;
+}
+
+/* ---------- Tabla 2 ---------- */
+.tabla2 {
+    border: 3px solid #e6b800;
+    border-collapse: collapse;
+    width: 455px;
+    text-align: center;
+}
+
+.tabla2 th,
+.tabla2 td {
+    border: 2px solid #e6b800;
+    background-color: #dcdcdc;
+    height: 58px;
+}
+
+.tabla2 .verde td {
+    background-color: yellowgreen;
+}

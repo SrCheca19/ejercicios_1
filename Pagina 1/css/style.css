@@ -1,0 +1,27 @@
+body {
+    font-family: "Times New Roman", serif;
+}
+
+h2 {
+    color: red;
+    font-style: italic;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.verdana {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 30px;
+}
+
+.resaltado {
+    background-color: yellow;
+}
+
+.enlace {
+    border: 2px solid blue;
+    background-color: #dcdcdc;
+    margin: 0;
+}
